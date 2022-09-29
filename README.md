@@ -1,2 +1,2 @@
 # redirector
-An url redirector tool which can be found on https://redirect.chankit.live/
+An url redirector tool which can be found on https://redirect.chankit.me/
